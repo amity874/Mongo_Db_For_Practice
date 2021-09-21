@@ -1,0 +1,14 @@
+{
+  "name": "day1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[A\u001b[B",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amit pandey",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.0.6"
+  }
+}
